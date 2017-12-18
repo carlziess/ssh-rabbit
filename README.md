@@ -1,6 +1,6 @@
 # ssh-rabbit
 ssh hosts manager
-ssh rabbit is a sample shell script for management ssh connections.
+ssh rabbit is a sample shell script for management the ssh connections.
 ## Quick start
 
 ``` sh
